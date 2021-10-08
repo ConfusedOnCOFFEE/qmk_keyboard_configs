@@ -1,4 +1,18 @@
-# Keyboard json and binaries
+# Keyboard JSON and binaries
+
+
+## Introduction
+
+This repo contains my keyboard configurations for these keyboards: 
+
+- Planck rev6
+- Preonic rev3
+
+**Features**
+
+- Emacs Layer
+- German special characters
+- ...
 
 ## Usage
 
@@ -8,8 +22,9 @@ Flash your keyboard with the binaries using [qmk_firmware](https://github.com/qm
 
 ## Credit
 
-QMK Community. Thank you to everything, who writes code and docs every day.
+- QMK Community. Thank you to everyone, who writes code and docs every day.
+
 
 ## LICENSE
 
-GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE V3
